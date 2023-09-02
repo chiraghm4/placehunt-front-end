@@ -28,8 +28,6 @@ const data = [
     }
 ]
 
-console.log(data)
-
 function Work() {
   return (
     <div id="works" className='max-w-[1040px] m-auto md:pl-20 p-4 my-16'>
