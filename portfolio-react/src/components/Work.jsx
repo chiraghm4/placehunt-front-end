@@ -3,29 +3,23 @@ import WorkItem from './WorkItem'
 
 const data = [
     {
-        start_year: 2023,
-        title: "Google",
+        start_year: "2023",
+        title: "QJ Technologies",
         duration: '1 month',
-        details: 'lorem ipsem'
+        details: 'Technology Intern'
     },
     {
-        start_year: 2023,
-        title: "Meta",
-        duration: '1 month',
-        details: 'lorem ipsem'
+        start_year: "2022-23",
+        title: "Cling Multi Solution Pvt. Ltd.",
+        duration: '8 months',
+        details: 'Software Developer Intern'
     },
     {
-        start_year: 2023,
-        title: "Apple",
-        duration: '1 month',
-        details: 'lorem ipsem'
+        start_year: "2021-22",
+        title: "Code Gurukul Pvt. Ltd.",
+        duration: '5 months',
+        details: 'Frontend Web Developer Intern'
     },
-    {
-        start_year: 2023,
-        title: "IoThings",
-        duration: '1 month',
-        details: 'lorem ipsem'
-    }
 ]
 
 function Work() {
