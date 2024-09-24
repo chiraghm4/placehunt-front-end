@@ -19,10 +19,8 @@ const Main = () => {
               sequence={[
                 // Same substring at the start will only be typed out once, initially
                 "Developer",
-                1000, // wait 1s before replacing "Mice" with "Hamsters"
+                1000, 
                 "Coder",
-                1000,
-                "Student",
                 1000,
                 "Tech Enthusiast",
                 1000,

@@ -3,10 +3,10 @@ import WorkItem from './WorkItem'
 
 const data = [
     {
-        start_year: "2023",
-        title: "QJ Technologies",
-        duration: '1 month',
-        details: 'Technology Intern'
+        start_year: "2024-Present",
+        title: "Dassault Systemes Globle Services",
+        duration: '',
+        details: 'Software Developer Associate'
     },
     {
         start_year: "2022-23",
